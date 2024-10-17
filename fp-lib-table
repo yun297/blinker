@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "blinker")(type "KiCad")(uri "C:/Users/zhuyu/OneDrive/Recent Files/KiCad libs/blinker.pretty")(options "")(descr ""))
+)
